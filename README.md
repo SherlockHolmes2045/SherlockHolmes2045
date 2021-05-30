@@ -1,6 +1,6 @@
 ## I am Ivan, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Ivan Lemovour, currently pursuing my diploma majoring in computer science from [UCAC-ICAM](https://www.ucac-icam.com/). I am a fullstack developper from Douala,Camerooon. I have rich experience in creating web,mobile,desktop and also embedded apps. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Ivan Lemovou, currently pursuing my diploma majoring in computer science from [UCAC-ICAM](https://www.ucac-icam.com/). I am a fullstack developper from Douala,Camerooon. I have rich experience in creating web,mobile,desktop and also embedded apps. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lemovou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-lemovou-98a585171/)](https://www.linkedin.com/in/ivan-lemovou-98a585171/)
 [![Twitter Badge](https://img.shields.io/badge/-Ivan_Lemovou-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sherlock2045)](https://twitter.com/sherlock2045)
