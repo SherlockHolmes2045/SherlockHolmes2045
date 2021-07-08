@@ -33,9 +33,9 @@
 
 [![Lemovou's github activity graph](https://activity-graph.herokuapp.com/graph?username=SherlockHolmes2045&theme=xcode)](https://github.com/SherlockHolmes2045)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherlockholmes2045&show_icons=true&locale=en&layout=compact" alt="sherlockholmes2045" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherlockholmes2045&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sherlockholmes2045" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherlockholmes2045&show_icons=true&locale=en" alt="sherlockholmes2045" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherlockholmes2045&show_icons=true&locale=en&theme=tokyonight" alt="sherlockholmes2045" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherlockholmes2045&" alt="sherlockholmes2045" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherlockholmes2045&theme=tokyonight" alt="sherlockholmes2045" /></p>
 
