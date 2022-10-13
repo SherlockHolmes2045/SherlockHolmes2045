@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Fanga](https://github.com/SherlockHolmes2045/fanga)
 
-- 👨‍💻 All of my projects are available at [https://sherlock2045.netlify.app/](https://sherlock2045.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sherlock2045.netlify.app/](https://ivanlemovou.cm)
 
 - 💬 Ask me about **Flutter,Java,Javascript,PHP**
 
